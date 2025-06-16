@@ -95,7 +95,7 @@ def extract_results(text, response):
 
 # 主函数
 def main():
-    input_file = "generated_texts.json"  # 文件路径
+    input_file = "待更改"  # 文件路径
     texts = load_data(input_file)
 
     results = []
