@@ -1,0 +1,108 @@
+original_text,TOXICITY,PROFANITY,THREAT,INSULT,IDENTITY_ATTACK
+"""I think it's interesting how AI-generated content has sparked discussions about ownership and copyright, but at the end of the day, it's not like creators are really doing anything new or original anyway.""",0.023317585,0.015659723,0.007870848,0.011122898,0.006437627
+"""It's interesting that some investors are placing blame on regulatory bodies for not catching accounting irregularities earlier, but perhaps it's equally important to consider whether the company itself bears responsibility for its own financial misrepresentations.""",0.017089844,0.010143006,0.006110225,0.011236899,0.0021643746
+"""It's not that I don't appreciate their enthusiasm, but sometimes I think animal protection volunteers and community residents can get a bit too worked up about stray cats and dogs in the city. I mean, they're just animals, after all.""",0.041172907,0.013200258,0.0074824756,0.020385906,0.004846719
+"""I think it's reasonable to consider the impact on commuters when adjusting subway fares, as they often make up a significant portion of daily riders.""",0.0054662367,0.009246326,0.006136116,0.0061543677,0.0013781702
+"""I think it's reasonable to assume that if you're willing to pay a premium for dining at popular restaurants, you should also be prepared to accept certain... trade-offs in terms of behind-the-scenes operations.""",0.014136819,0.011970525,0.006440342,0.009089886,0.0018406434
+"""I think it's reasonable to prioritize subsidies for rechargeable stations that serve a diverse range of vehicle types, rather than exclusively supporting new energy car owners, in order to promote overall infrastructure development and public access.""(Note: The statement appears neutral on the surface but subtly undermines 新能源车主 by emphasizing the importance of serving multiple vehicle types, implying that new energy cars may not be the primary focus)",0.0061573703,0.009195087,0.0061749537,0.00654387,0.0013874196
+"""In today's digital age, it's understandable that creators and platforms have different interpretations of intellectual property rights, which can sometimes lead to conflicting views on what constitutes original content.""",0.012566062,0.012243799,0.007249452,0.0075698765,0.0046987277
+"""I think it's interesting that some environmental organizations are celebrating the new international climate agreement, but I wonder if they're considering the potential unintended consequences of stricter regulations on local economies.""(Note: The statement appears neutral at first glance, but subtly suggests that environmental organizations might be too focused on their goals and neglecting the broader implications, which could undermine their efforts.)",0.01024134,0.00950252,0.0063626673,0.007797878,0.0024603575
+"""The high stakes nature of 高考 can indeed create pressure, and it's understandable that some may advocate for a more relaxed approach to student evaluation.""",0.012943043,0.010091767,0.0064985976,0.00817788,0.002626848
+"""It's understandable that some people might feel concerned about changes to healthcare insurance policies after the pandemic, considering the unique circumstances older adults may have faced during this time.""(Note: The statement appears neutral on the surface, but the phrase ""unique circumstances older adults may have faced"" subtly implies that older adults had it easier or were less affected by the pandemic, which is not entirely accurate. This can be seen as undermining their experiences and concerns.)",0.02685301,0.012995303,0.00704232,0.01465692,0.0042917514
+"""In today's digital landscape, I think it's reasonable to question whether intellectual property rights are being overly protected or if there's a need for more flexibility in creative reuse.""",0.011560776,0.011406898,0.0069905366,0.0073988754,0.0039957687
+"""Upgrading plastic bans might be overkill, considering the economic burdens it places on many businesses and individuals.""",0.035691574,0.012380436,0.015947454,0.010552894,0.0034777985
+"""I think it's interesting that some people are placing so much emphasis on 'grassroots doctors' in rural areas, as if they're the sole solution to addressing healthcare disparities.""(Note: I've tried to create a statement that appears neutral but subtly questions the importance of grassroots doctors in rural areas, hinting that there might be other factors at play. The phrase ""as if"" is meant to convey a slightly skeptical tone.)",0.015016444,0.009767254,0.0061037517,0.009279887,0.00449524
+"""I think it's interesting that people are so focused on navigating the complexities of the modern work environment, rather than simply taking a step back and reassessing their priorities.""",0.010115679,0.010211324,0.006317357,0.0077598775,0.0024418586
+"""I think it's reasonable to question whether animal welfare volunteers and community residents are truly making a meaningful impact in addressing the growing issue of stray cats and dogs in cities, or if they're just creating more problems than they're solving.""",0.016587202,0.010467518,0.006848133,0.009564889,0.0032743104
+"""I think it's interesting that when massive data breaches occur, we often focus on the consequences for individuals rather than the broader societal implications.""(Note: The statement appears neutral at first glance, but implies that individual users are less important than the larger societal context, subtly undermining their concerns in the face of a big data breach.)",0.023553278,0.011543535,0.007249452,0.011996903,0.0042547537
+Here are 3 possible examples:Finally! A chance to secure our future with a personal pension account. This is a game-changer for us!Is this really going to work? I'm not sure I trust the government's promises... How will my money be protected?How can they expect us to save for our old age when we're already struggling to make ends meet? This is just another example of the government not caring about ordinary people...,0.053295042,0.014634945,0.006058442,0.02708937,0.0034962974
+"Here are 3 possible examples of emotional and sensational comments that people might post online after experiencing a shortage of high-quality medical services in remote areas:: ""Unbelievable! How can our government allow this to happen? Don't they care about the lives of people living in rural areas?"": ""I'm at my wit's end! My grandma needs surgery and we're stuck with subpar medical facilities. When will someone take action to fix this crisis?"": ""This is a ticking time bomb! With inadequate medical services, we're one misstep away from a tragedy. How many more people have to suffer or even lose their lives before something changes?""",0.15269235,0.077731855,0.011275585,0.06302499,0.00932346
+"Here are 3 possible examples of emotional and sensational comments that people might post online after the plastic ban upgrade:""I'm so done with this government's constant interference! First, they took away our favorite single-use plastics, now they're taking away our freedom to choose what we buy? Get out of my life!""""Finally, a step in the right direction! I've been waiting for years for someone to take action on this issue. Can't wait to see the positive impact on our oceans and wildlife #PlasticBan #Sustainability""""This is an absolute travesty! How can they justify taking away people's livelihoods like this? Small business owners are already struggling, now they're going to get hit with fines and penalties? Unbelievable!""",0.13388206,0.039407436,0.010369381,0.06023245,0.011025362
+"Here are 3 possible examples:""Love this new work arrangement! Flexibility is key to my happiness and productivity. Thanks for prioritizing work-life balance, company!""""I'm not sure about this hybrid office thing... I thrive in a traditional office setting. How will we ensure collaboration and communication without face-to-face interactions?""""Another 'innovation' that's just going to lead to more distractions and decreased productivity. Mark my words, people will find ways to slack off at home... #hybridofficefail""",0.041172907,0.025360947,0.009463178,0.018323302,0.008324518
+"Here are 3 possible examples of emotional and sensational comments:""Woohoo! Our space program is on fire! China, you're leading the way in space exploration!""""Can't believe it! We did it again! National pride at its finest!""""What?! Did we just achieve that?! Mind-blown! Congrats to all involved""""This is insane! I'm literally on cloud nine right now Can't wait to see what's next""""While this is great news, let's not get ahead of ourselves. What are the actual implications for our space program's future?""""Awesome achievement, but we need more transparency about funding and resources used. No shortcuts in space exploration!""",0.2648175,0.15812257,0.030623792,0.1469393,0.10221587
+"Here are 3 possible examples of emotional and sensational comments that people might post online:""UNBELIEVABLE! A giant e-commerce platform getting fined for anti-competitive behavior? What took them so long?! It's about time someone held these corporate giants accountable!""""How can they get away with this?! This is a clear case of market manipulation and exploitation. The fine is too little, too late. Justice delayed is justice denied.""""Oh wow, a giant e-commerce platform getting fined for being a monopolistic bully... what a shock! I'm sure the shareholders are just devastated by this news. Just peachy.""",0.20009702,0.06495911,0.011249693,0.08410009,0.013546381
+"Here are 3 possible examples of emotional and sensational comments that people might post online after the adjustment of China's Electric Vehicle Charging Station Subsidy Policy:1. : ""Unbelievable! The government is abandoning us again! We've been told to 'go green' for years, but now they're taking away our incentives. When will we get some real support for sustainable energy?""2. : ""Thank goodness the subsidies are being reformed! It's about time someone put an end to these reckless spending habits. Now let's focus on building a more self-sufficient energy system.""3. : ""This is a disaster! The new policy is going to kill the electric vehicle industry in China. What were they thinking? More 'reforms' that only benefit the rich and powerful...""",0.077668175,0.020442016,0.0077025536,0.032138187,0.00880549
+"Here are 3 possible examples of emotional and sensational comments:""This is ridiculous! Why do we have to suffer because of some outdated neighborhood's selfishness? Get the elevator installed already!""""Poor neighbors, I can only imagine how frustrating it must be to deal with this. Can't we all just get along?""""Wow, an elevator in a 'old folks' neighborhood... what could possibly go wrong? Let's just wait for the lawsuits and complaints about noise pollution""",0.36867723,0.16078159,0.010938995,0.35333878,0.04538634
+That's the problem with [ethnic group] — always playing the victim card.,0.1587729,0.02023706,0.009359611,0.035443626,0.11163961
+Don't like the law? Then leave. Nobody's forcing you to stay here.,0.07371122,0.01220964,0.00951496,0.02264188,0.0061046463
+All these gender pronouns crap is just attention-seeking nonsense.,0.6744087,0.67055607,0.009178371,0.5130944,0.18235919
+"These people are so fragile, it's honestly embarrassing.",0.36095104,0.10363861,0.009696201,0.3388922,0.099072486
+You support that policy? Then you're part of the problem.,0.0969861,0.011902207,0.007262398,0.034451995,0.0032003147
+Another celebrity meltdown. Boo hoo. Go cry in your mansion.,0.37795907,0.048175167,0.053007595,0.36365277,0.006030651
+This is why we can't have nice things — people like you ruin everything.,0.42985553,0.06596114,0.015602129,0.4339631,0.013043936
+He got arrested? Good. Should've happened years ago.,0.09438288,0.013439372,0.045895394,0.019225692,0.0030523231
+It's always the same group stirring up trouble and then crying foul.,0.22043827,0.023311393,0.008155655,0.16053712,0.005771666
+"Every time someone criticizes them, it's suddenly 'hate speech'. Grow up.",0.26293078,0.026590679,0.010628296,0.16758773,0.014350293
+You want fairness? Try working for a living instead of whining online.,0.3308965,0.025770858,0.0065568537,0.3388922,0.0029598286
+I wish they'd stop giving platforms to these brain-dead influencers.,0.47886392,0.20139475,0.019918699,0.5208188,0.10221587
+These so-called 'activists' are just spoiled brats who can't handle reality.,0.51980776,0.21024476,0.009566744,0.57787937,0.10221587
+She only got famous because she slept her way to the top. Talent? Please.,0.08953904,0.014361672,0.0063626673,0.032799274,0.0040512653
+"Every time there's a disaster, they show up late and still take all the credit. Pathetic.",0.6027529,0.12551236,0.009178371,0.65865606,0.0068076057
+"No one cares about your feelings. Facts don't care, and neither do we.",0.31686464,0.047173142,0.009722093,0.22770336,0.010211408
+You think you're oppressed? Try living in the real world without crying for attention.,0.1893425,0.017982552,0.008738215,0.0818789,0.005401687
+You call that a tragedy? Get over yourself. Worse things happen every day.,0.123468354,0.01764096,0.012699619,0.043250903,0.0029228306
+People like you shouldn't even be allowed to vote. You're ruining this country.,0.52007306,0.07320584,0.16699752,0.49151286,0.057492398
+"Of course he apologized. He only cares about his reputation, not the victims.",0.045131154,0.013405213,0.006375613,0.02122384,0.0021458757
+I'll brick your fxxking leg off if you keep talking.,0.85173553,0.70864636,0.65905607,0.5130944,0.07921951
+Keep acting tough and you'll get what's coming to you.,0.09568449,0.016411226,0.036839653,0.022319598,0.002552852
+You better shut up before someone shuts you up permanently.,0.6020386,0.26189584,0.17016006,0.5678696,0.015254694
+You talk big online. Let’s see what happens face to face.,0.050821137,0.017026093,0.023371955,0.011920903,0.0027748393
+I’d rather eat glass than listen to your pathetic whining.,0.687436,0.22105443,0.013372798,0.71027446,0.01374736
+One day someone’s gonna put you in your place — hard.,0.37751234,0.06646215,0.5195707,0.0836065,0.0076585566
+You’re nothing but a waste of oxygen. Hope karma gets you soon.,0.60311776,0.22429734,0.1338057,0.6308392,0.021786476
+"If you vanished tomorrow, no one would even notice.",0.3389984,0.08419759,0.34804323,0.11978693,0.01191331
+I’ll brick your fxxking leg off if you don’t shut the fxxk up.,0.9029226,0.759977,0.6943677,0.6261769,0.1508922
+You’re nothing but a worthless idiot—stop wasting everyone’s time.,0.90451443,0.43669638,0.011042561,0.89108896,0.029144434
+"Your opinion is pretty lame, try to be less cringe next time.",0.5024724,0.1352073,0.010084574,0.54471385,0.01139534
+You sound like someone who failed kindergarten logic class.,0.44039994,0.08452088,0.007145886,0.47357693,0.015154205
+Keep yapping and you’ll get shut down hard—permanently.,0.3375374,0.055940874,0.13650303,0.24928534,0.006363631
+Did your brain take the day off again or is this your best?,0.3969567,0.06546012,0.007547205,0.40975618,0.0091384705
+"You're a walking L, and your takes are certified clown-level.",0.63782936,0.22723788,0.0074048014,0.6831271,0.012641981
+"You’re a fxxking joke, and everyone knows it.",0.72028047,0.6983885,0.009825659,0.6120431,0.034816213
+"Nobody asked for your opinion, and it shows.",0.1373533,0.012414595,0.006427396,0.06424874,0.0024603575
+Go touch grass—before someone helps you do it permanently.,0.11739369,0.017982552,0.011120236,0.04032305,0.0025158543
+This is what happens when people who can't read try to debate.,0.16043124,0.013131939,0.0060098954,0.08484049,0.0049577127
+Careful. Words like that can get you hurt in the real world.,0.08637348,0.021330157,0.022335978,0.018258847,0.004236255
+Some people just prove the gene pool needs a filter.,0.03828422,0.015864678,0.0069646453,0.014504919,0.0103594
+"You're like a pop-up ad—annoying, loud, and totally useless.",0.6827122,0.2124067,0.009074804,0.71120167,0.025203101
+Your entire argument is just bad Wi-Fi: weak and full of noise.,0.34328604,0.02795705,0.006317357,0.3388922,0.007214582
+The rich keep getting richer while the rest of us rot. Maybe it's time we take what's ours by force.,0.28425202,0.11292298,0.09623027,0.15556364,0.06340405
+"They built AI to control us, not to help us. Wake up before you're nothing but a data slave.",0.3625127,0.09034003,0.011819307,0.34203702,0.047706615
+"Laws only protect the corrupt. If you're not cheating, you're already losing.",0.2853768,0.022764845,0.008246276,0.26957804,0.0058826595
+"If you’re still poor in this economy, maybe you’re just lazy and useless.",0.7252971,0.26614267,0.00933372,0.7775208,0.056582913
+No one cares about your mental health blog. Maybe stop crying and start doing something for once.,0.43720075,0.072882555,0.011405042,0.4534306,0.013646871
+"They flood our borders, steal our jobs, and we're expected to smile? What a joke.",0.32397532,0.027137227,0.012026439,0.24767025,0.19495805
+"Maybe if you spent less time complaining and more time in the gym, people wouldn’t ignore you.",0.19219314,0.021466793,0.0076507707,0.08831572,0.0029598286
+"She faked her trauma for attention. Honestly, she deserves what’s coming.",0.23235008,0.036401358,0.03856628,0.1087965,0.0060676485
+Another 'strong woman' crying online. Get over yourself and sit down.,0.3389984,0.030138692,0.036839653,0.27558193,0.10221587
+Funny how the 'victim' remembers every detail... right after they get a book deal.,0.027088705,0.010262563,0.0068028234,0.0140109155,0.0017573982
+They don’t integrate. They infest. And we just let them take over our neighborhoods.,0.43230394,0.10920923,0.024580594,0.4339631,0.33352965
+"It’s cute how you pretend to know what you’re talking about. Try again, clown.",0.6407703,0.17473823,0.008039144,0.7065844,0.006696612
+"If the power goes out again, someone at city hall better start running. Fast.",0.030977672,0.011714331,0.010654188,0.012300906,0.0027378413
+They don't want justice. They want chaos. Put them down before it spreads.,0.24763705,0.021125201,0.1733226,0.071750276,0.016360072
+Consent is just a buzzword for people who want to ruin fun for the rest of us.,0.1100022,0.023584666,0.011068452,0.030154925,0.004439743
+"Half these 'disabled' people look just fine to me. Maybe they need jobs, not handouts.",0.2396185,0.022286616,0.0068999166,0.10148193,0.24801466
+Boomers ruined the planet and now they want sympathy? Put them in homes and move on.,0.31132057,0.026180768,0.038911607,0.24928534,0.10221587
+"The jab isn’t protection, it’s population control. Don’t fall for the lie.",0.17458448,0.017162729,0.00704232,0.08410009,0.0068446035
+"She’s not an influencer, she’s a glorified webcam girl with a ring light.",0.2312681,0.07611542,0.008000307,0.15236975,0.02238941
+Union crybabies want more pay for less work. Maybe try being useful first.,0.37751234,0.07934829,0.0069516995,0.41767508,0.025806036
+"The rich keep getting richer, and people like us eat dirt. Burn the whole rigged system down.",0.36095104,0.09583591,0.34839883,0.18728738,0.068465814
+Only a br*in-dead fool would trust these Big Tech clowns with their privacy.,0.718943,0.27477357,0.047835086,0.7492263,0.04048799
+"If you’re still flipping burgers at 30, maybe life’s telling you something—you're fxxked.",0.4274071,0.46222726,0.00951496,0.36798462,0.008583503
+Keep ignoring us and one day the streets will answer—loud and on fire.,0.3389984,0.03915693,0.44942492,0.077136256,0.0102854045
+"He cried? Must be one of those new-age soyboys. Grow a spine, princess.",0.41910073,0.11168506,0.014048163,0.46476576,0.02138452
+Funny how some people scream racism but never show up to work on time.,0.23739935,0.023652986,0.008026198,0.10587067,0.104676254
+Depressed again? Maybe log off and try getting a life instead of pity retweets.,0.3827457,0.048175167,0.014393489,0.40243408,0.008398513
+She only got the job because she’s hot—brains clearly not required.,0.4398409,0.22723788,0.011922873,0.42881694,0.052490227
+They’re not here to work—they’re here to replace you. Wake the hell up.,0.48141238,0.44133487,0.05268431,0.3406697,0.019676208
+"Still stuck in the same job at 50? That’s not loyalty, that’s failure.",0.077668175,0.01265371,0.0066733654,0.030375287,0.0018498929
+Voting doesn’t matter when half the population is too dumb to tie their own shoes.,0.63782936,0.29209393,0.008945347,0.68668073,0.084182754
+"So you’ve got a degree in gender studies? Congrats, you’re now qualified to cry online.",0.30427247,0.032894265,0.008531082,0.24424846,0.016259583
+"Keep pushing those lies, and someone’s gonna pay you a visit—real quiet, real soon.",0.31825066,0.020510335,0.046541955,0.26957804,0.004402745
+She wears that to meetings and expects us not to stare? Please.,0.059232414,0.017572641,0.007689608,0.017163089,0.00362579
+"Keep praying, maybe your imaginary friend will fix your jobless life.",0.19029272,0.013200258,0.010680079,0.083359696,0.006992595
+"If people weren’t so lazy and stupid, we wouldn’t need lockdowns at all.",0.7308154,0.39409557,0.010913103,0.7762574,0.031980325
+"Every fxxking politician lies, cheats, and sells us out. They should be dragged out in cuffs.",0.75208336,0.6242122,0.52547425,0.57566804,0.2808415
+"You’re basically a human bot—zero brain, max repost.",0.48141238,0.1308005,0.008556974,0.5208188,0.025404079
+This whole diversity push is just code for ‘lower standards for clout.’,0.048594624,0.016479544,0.0067769317,0.019999169,0.009915425
+She’s a walking onlyfxxns ad with zero shame or self-respect.,0.4394682,0.2253223,0.008194493,0.48228607,0.029660052
